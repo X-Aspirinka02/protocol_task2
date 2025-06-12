@@ -13,3 +13,5 @@
    ```bash
    git clone https://github.com/ваш-репозиторий/vk-api-client.git
    cd vk-api-client
+2. Создайте env файл с переменной ACCESS_TOKEN для доступа API
+   в данном примере токен является переменной окружения
